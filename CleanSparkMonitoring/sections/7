@@ -1,4 +1,2 @@
-type: image-text-right
-content: #blurb2
-image: kitten.jpg
-overview: #overview
+type: centered-text
+content: #blurb6

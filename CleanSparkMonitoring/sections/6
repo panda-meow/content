@@ -1,7 +1,7 @@
 type: three-images
-left: overview-before.png
-leftCaption: Initial building overview
-center: overview-v1.png
-centerCaption: Iteration v1 building overview
-right: overview-v2.png
-rightCaption: Iteration v2 building overview
+left: portfolio1.png
+#leftCaption: Initial building overview
+center: portfolio2.png
+#centerCaption: Iteration v1 building overview
+right: portfolio3.png
+#rightCaption: Iteration v2 building overview

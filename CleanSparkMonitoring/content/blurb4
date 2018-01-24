@@ -1,0 +1,1 @@
+Within a given site, the user has the ability to drill-down into a detailed view of a particular asset. All assets have multiple sensor points, and contextual interviews with engineers helped narrow down the most useful points that should be displayed on this asset’s overview page.
