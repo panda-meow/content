@@ -1,7 +1,2 @@
-type: three-images
-left: overview-before.png
-leftCaption: Initial building overview
-center: overview-v1.png
-centerCaption: Iteration v1 building overview
-right: overview-v2.png
-rightCaption: Iteration v2 building overview
+type: image-full
+image: kitten.jpg

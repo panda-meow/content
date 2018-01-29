@@ -1,5 +1,5 @@
-~The energy industry has outdated monitoring platforms that have not been updated since the 1970s. CleanSpark wanted to update this interface by making it easy on the eyes and clear to understand.
+~When a client wants to know what renewable assets to add to their site in order to get the most cost-effective return on investment, we collect all of their utility data as well as building specifications. This data is then manually entered into a matlab tool and will return multiple options for the customer.
 
 THE CHALLENGE:
 
-What is the most effective display for an energy monitoring energy within one facility containing various resources, while allowing for a drill-down into each resource?  
+Take a tool created by an engineer in MatLab used to project savings and suggest additional renewable assets to increase savings, and make it user-friendly and intuitive. 
