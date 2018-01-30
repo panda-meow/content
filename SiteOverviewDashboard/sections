@@ -1,31 +1,29 @@
 type: notes
 content: #blurb
 overview: #overview
-image: portfolio1.png
+image: #siteTypes.png
 
-type: image-text
-content: #blurb2
-image: kitten.jpg
+type: two-images
+left: userGoals.png
+right: personas.png
+
+type: image-full
+image: siteTypes.png
 overview: #overview
 
+type: image-full
+image: widgets-all.png
+
 type: centered-quote
-content: Teh Kittez are very cuddly!
+content: Say something intelligent!
 
 type: centered-text
 content: #blurb3
-
-type: two-images
-left: kitten.jpg
-right: sleepy-kitten.jpg
-
-type: two-images
-left: kitten.jpg
-right: sleepy-kitten.jpg
-
-type: image-full
-image: kitten.jpg
 
 type: image-text-right
 content: #blurb2
 image: kitten.jpg
 overview: #overview
+
+type: image-full
+image: before-after.png

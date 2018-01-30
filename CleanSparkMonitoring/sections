@@ -21,6 +21,7 @@ content: Let’s back up a minute.
 
 type: centered-text
 content: #blurb5
+
 type: three-images
 left: portfolio1.png
 #leftCaption: Initial building overview
@@ -38,8 +39,10 @@ image: nested-portfolio.png
 type: image-text-right
 content: #blurb7
 image: overview-v2.png
+
 type: centered-text
 content: #blurb8
+
 type: image-full
 content: #blurb3
 image: drilldown-all.png

@@ -1,0 +1,15 @@
+type: notes
+content: #blurb
+overview: #overview
+image: flowDiagram.png
+
+type: two-images
+left: flow-v1.png
+right: flow-v2.png
+
+type: centered-quote
+content: Teh Kittez are very cuddly!
+
+type: centered-text
+content: #blurb3
+
