@@ -1,0 +1,45 @@
+type: notes
+content: #blurb
+overview: #overview
+image: #portfolio.jpg
+
+type: image-text
+content: #blurb2
+image: beginning.png
+overview: #overview
+
+type: centered-text
+content: #blurb3
+
+type: image-fifty
+content: #blurb3
+image: overview-v1.png
+
+type: centered-quote
+content: Let’s back up a minute.
+
+
+type: centered-text
+content: #blurb5
+type: three-images
+left: portfolio1.png
+#leftCaption: Initial building overview
+center: portfolio2.png
+#centerCaption: Iteration v1 building overview
+right: portfolio3.png
+#rightCaption: Iteration v2 building overview
+
+type: centered-text
+content: #blurb6
+type: image-full
+content: #blurb3
+image: nested-portfolio.png
+
+type: image-text-right
+content: #blurb7
+image: overview-v2.png
+type: centered-text
+content: #blurb8
+type: image-full
+content: #blurb3
+image: drilldown-all.png

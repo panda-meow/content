@@ -1,0 +1,38 @@
+type: notes
+content: #blurb
+overview: #overview
+image: #sleepy-kitten.jpg
+
+type: image-fifty
+image: 1-original.png
+
+type: centered-text
+content: #blurb2
+
+type: image-text-right
+image: 2-brainstorm.png
+content: #blurb3
+
+type: centered-text
+content: #blurb4
+
+
+type: two-images
+left: 3-lofi-wireframe.png
+right: 4-hifi-wireframe.png
+
+type: image-text
+image: 5-options-detail.png
+content: #blurb6
+type: centered-text
+content: #blurb3
+
+type: image-full
+image: sungevity-desktop.png
+type: image-full
+image: sungevity-web.png
+type: two-images
+left: 5-android-long.png
+right: 5-android-all.png
+type: image-full
+image: 6-android-screens.png

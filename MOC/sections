@@ -1,0 +1,35 @@
+type: notes
+content: #blurb
+overview: #overview
+image: portfolio1.png
+
+type: image-text
+content: #blurb2
+image: kitten.jpg
+overview: #overview
+
+type: centered-quote
+content: Teh Kittez are very cuddly!
+
+type: centered-text
+content: #blurb3
+
+type: two-images
+left: kitten.jpg
+right: sleepy-kitten.jpg
+
+type: image-full
+image: kitten.jpg
+
+type: three-images
+left: overview-before.png
+leftCaption: Initial building overview
+center: overview-v1.png
+centerCaption: Iteration v1 building overview
+right: overview-v2.png
+rightCaption: Iteration v2 building overview
+
+type: image-text-right
+content: #blurb2
+image: kitten.jpg
+overview: #overview

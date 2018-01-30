@@ -1,0 +1,33 @@
+type: notes
+content: #blurb
+overview: #overview
+image: sleepy-kitten.jpg
+
+type: image-text
+content: #blurb2
+image: demo-cutout.png
+overview: #overview
+
+type: centered-quote
+content: Teh Kittez are very cuddly!
+
+type: centered-text
+content: #blurb3
+
+type: two-images
+left: wireframe1.png
+right: wireframe2.png
+
+type: image-full
+image: iterosPostersAll6.png
+
+type: two-images
+left: 3d.png
+right: screen1.png
+type: image-text-right
+content: #blurb2
+image: kitten.jpg
+overview: #overview
+
+type: image-full
+image: handout.png

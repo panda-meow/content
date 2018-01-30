@@ -1,0 +1,14 @@
+type: notes
+content: #blurb
+overview: #overview
+image: #portfolio1.png
+
+type: image-full
+image: 0-original.png
+
+type: two-images
+left: 1a-redesign.png
+right: 1b-requestForm.png
+
+type: image-full
+image: 2-all.png
