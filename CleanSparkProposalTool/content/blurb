@@ -1,5 +1,6 @@
-~When a client wants to know what renewable assets to add to their site in order to get the most cost-effective return on investment, we collect all of their utility data as well as building specifications. This data is then manually entered into a matlab tool and will return multiple options for the customer.
+~When a customer wants to know their options for how to reduce energy consumption or overall energy costs, many things need to be taken into consideration. A historical set of utility data, the size of buildings and rooftop space that can hold solar panels, overall goals, and how quickly the customer would like to break even on the investment… just to name a few. Companies that provide these types of reports spend a lot of time manually entering this data, and tweaking parameters to end up with a few potential options. Due to the complexity of this task, the end result is a vague estimate, leaving customers frustrated when the result is far from the proposal calculations. Our company wanted to not only streamline this process, we wanted to account for everything down to tax credits to provide a highly accurate report.
+
 
 THE CHALLENGE:
 
-Take a tool created by an engineer in MatLab used to project savings and suggest additional renewable assets to increase savings, and make it user-friendly and intuitive. 
+Take a tool created by an engineer in MatLab used to project savings and suggest additional renewable assets to increase savings, and make it user-friendly and intuitive.

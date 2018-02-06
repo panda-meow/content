@@ -9,9 +9,6 @@ image: wireframes.png
 type: centered-quote
 content: Teh Kittez are very cuddly!
 
-type: centered-text
-content: #blurb3
-
 type: image-full
-image: implementation.png
+image: implementation2.png
 

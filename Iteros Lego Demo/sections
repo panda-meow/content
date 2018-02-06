@@ -22,8 +22,9 @@ type: image-full
 image: iterosPostersAll6.png
 
 type: two-images
-left: 3d.png
+left: demo-live.png
 right: screen1.png
+
 type: image-text-right
 content: #blurb2
 image: kitten.jpg

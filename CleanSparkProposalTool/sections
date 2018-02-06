@@ -24,15 +24,19 @@ right: 4-hifi-wireframe.png
 type: image-text
 image: 5-options-detail.png
 content: #blurb6
+
 type: centered-text
 content: #blurb3
 
 type: image-full
 image: sungevity-desktop.png
+
 type: image-full
 image: sungevity-web.png
+
 type: two-images
 left: 5-android-long.png
 right: 5-android-all.png
+
 type: image-full
 image: 6-android-screens.png

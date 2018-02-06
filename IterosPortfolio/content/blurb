@@ -1,1 +1,3 @@
-~Develop a visualization that displays the ‘health’ of sites within a portfolio based on various parameters (cost/load, hi/low). This visualization must be scalable and allow for hundreds or thousands of individual sites, all visible on a single screen. 
+~Energy management systems are built with many features and capabilities, but one of the most crucial is monitoring the health of a facility. In this case, health is comprised of a few key performance indicators that inform the user of whether the site is out of normal range. Specifically, the facility’s power load and cost of power are appropriate high-level metrics for indicating if a closer look into the site’s performance is required.
+
+THE CHALLENGE: Develop a visualization that displays the ‘health’ of sites within a portfolio based on power usage and cost. This visualization must be scalable and allow for hundreds or thousands of individual sites, all visible on a single screen.

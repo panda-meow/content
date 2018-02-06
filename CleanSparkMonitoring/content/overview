@@ -5,7 +5,10 @@ Company
 CleanSpark
 
 Technology
-SCALA, Play Framework, SCSS, gulp, AngularJS, HTML
+SCALA, Play Framework, SCSS, gulp, AngularJS, HTML, Sketch, Axure
 
 Roles
-Lo and Hi Fidelity Wireframes, Contextual Interviews, Front-End Development
+Front-End Development, Data Visualization, Lo and Hi Fidelity Wireframes, Contextual Interviews, A/B Testing,
+
+Team Collaborators
+Two backend Java developers: created system architecture, developed system intelligence, managed databases, wrote service calls; Software Intern: helped with JavaScript functions and later data charts

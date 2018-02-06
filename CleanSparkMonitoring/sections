@@ -1,7 +1,7 @@
 type: notes
 content: #blurb
 overview: #overview
-image: #portfolio.jpg
+image: kitten.jpg
 
 type: image-text
 content: #blurb2
@@ -32,6 +32,7 @@ right: portfolio3.png
 
 type: centered-text
 content: #blurb6
+
 type: image-full
 content: #blurb3
 image: nested-portfolio.png
