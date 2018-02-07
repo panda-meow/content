@@ -1,7 +1,7 @@
 type: notes
 content: #blurb
 overview: #overview
-image: sleepy-kitten.jpg
+image: main.png
 
 type: image-text
 content: #blurb2
@@ -25,7 +25,5 @@ type: two-images
 left: demo-live.png
 right: screen1.png
 
-type: image-text-right
-content: #blurb2
-image: kitten.jpg
-overview: #overview
+type: image-full
+image: sunValley.png
