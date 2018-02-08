@@ -11,13 +11,12 @@ overview: #overview
 type: centered-text
 content: #blurb3
 
-type: image-fifty
-content: #blurb3
-image: overview-v1.png
+type: two-images
+left: overview-v1.png
+right: overview-v2.png
 
 type: centered-quote
 content: Let’s back up a minute.
-
 
 type: centered-text
 content: #blurb5
@@ -38,6 +37,7 @@ content: #blurb3
 image: nested-portfolio.png
 
 type: image-text-right
+header: thingy header test
 content: #blurb7
 image: overview-v2.png
 

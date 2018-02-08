@@ -1,0 +1,1 @@
+The greatest source of complexity was found within the options section. Many options are toggled off by default, but when toggled on reveal further configurations. Due to this opt-in functionality, a modal popup seemed ideal. This way, the options are less overwhelming and isolated from irrelevant information.

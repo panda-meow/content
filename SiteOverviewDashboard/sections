@@ -20,10 +20,5 @@ content: Say something intelligent!
 type: centered-text
 content: #blurb3
 
-type: image-text-right
-content: #blurb2
-image: kitten.jpg
-overview: #overview
-
 type: image-full
 image: before-after.png

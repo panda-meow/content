@@ -22,20 +22,31 @@ right: 4-hifi-wireframe.png
 
 type: image-text
 image: 5-options-detail.png
-content: #blurb6
+content: #blurb5
 
 type: centered-text
-content: #blurb3
+content: #blurb6
 
 type: image-full
 image: sungevity-desktop.png
 
 type: image-full
-image: sungevity-web.png
+image: sungevity-screens.png
 
-type: two-images
-left: 5-android-long.png
-right: 5-android-all.png
+type: centered-text
+content: #blurb7
+
+type: image-fifty
+image: main.png
+
+type: centered-text
+content: #blurb8
+
+type: image-fifty
+image: 5-android-long.png
+
+type: centered-text
+content: move this to main image, combine ipad/nexus7 and android phones
 
 type: image-full
 image: 6-android-screens.png
