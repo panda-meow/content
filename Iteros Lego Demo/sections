@@ -8,10 +8,8 @@ content: #blurb2
 image: demo-cutout.png
 overview: #overview
 
-type: centered-quote
-content: The Process
-
 type: centered-text
+header: The Process
 content: #blurb3
 
 type: two-images
