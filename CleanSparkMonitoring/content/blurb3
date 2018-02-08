@@ -1,1 +1,11 @@
+# Hello Lists
+
+1. One
+2. Two
+3. Three
+
+### Link Example
+
+Hello look... [an example](http://example.com/ "Title").
+
 The site overview page went through two additional iterations before the final design. After contextual interviews and learning more about the users, it became clear that this overview was not a fitting display for all user groups. Two main user types and contexts for the platform emerged: there were the Engineers, and the General Consumers. Engineers were a technically-savvy user that wanted transparency of important sensor information in order to assess the health of the system and diagnose a problem, as well as a historical view of data, and the ability to look at isolated sensor point data. The General Consumer is a non-technical user that wants to understand their energy usage and see where they can improve to save money or reduce their carbon footprint.
