@@ -1,3 +1,1 @@
-THE CHALLENGE:
-
-What is the most effective display for an energy monitoring energy within one facility containing various resources, while allowing for a drill-down into each resource?  
+The goal was to create a small-scale example of what a customer might see in the field. Specifically, our customer may be utilizing solar to drive one or more loads to reduce or offset utility costs. In practice, this setup is not ideal since factors like weather can reduce or eliminate the efficiency of the panels. Therefore the customer would most likely use the grid as backup when weather conditions are not ideal. Our software is capable of enabling and disabling the load in addition to detecting when the power supplied by the panels is not sufficient. That way the customer does not have to worry about turning the system on and off.

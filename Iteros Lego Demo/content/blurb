@@ -1,5 +1,3 @@
-~The goal is to create a small-scale example of what a customer might see in the field. Specifically, our customer may be utilizing solar to drive one or more loads to reduce or offset utility costs. In practice, this setup is not ideal since factors like weather can reduce or elimitate the efficiency of the panels. Therefore the customer would most likely use the grid as backup when weather conditions are not ideal. Our software, should be capable of enabling and disabling the load in addition to detecting when the power supplied by the panels is not sufficient. That way the customer knows how much money they are saving. 
+~Energy management is abstract in nature, and therefore difficult to conceptualize without an applied demonstration. Naturally, this became problematic when our company wanted to demonstrate to potential investors how our software worked beyond screens. This lead us to come up with a small-scale community made from legos to show how our system balances and shares power, as well as integrates community renewables. This alone still did not tell the whole story.
 
-THE CHALLENGE:
-
-Take our physical model of our system and conceptually overlay it with a visualization of what is happening within it.
+The Challenge:  Augment our physical model by conceptually overlaying with a visualization of what is happening within the model.

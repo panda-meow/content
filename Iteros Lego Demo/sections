@@ -9,7 +9,7 @@ image: demo-cutout.png
 overview: #overview
 
 type: centered-quote
-content: Teh Kittez are very cuddly!
+content: The Process
 
 type: centered-text
 content: #blurb3
@@ -18,12 +18,19 @@ type: two-images
 left: wireframe1.png
 right: wireframe2.png
 
+type: centered-text
+content: #blurb5
+
 type: image-full
 image: iterosPostersAll6.png
 
-type: two-images
-left: demo-live.png
-right: screen1.png
+type: image-text
+content: #blurb6
+image: screen1.png
+overview: #overview
+
+type: centered-text
+content: #blurb4
 
 type: image-full
 image: sunValley.png
