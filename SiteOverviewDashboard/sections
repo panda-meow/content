@@ -3,6 +3,9 @@ content: #blurb
 overview: #overview
 image: main.png
 
+type: centered-text
+content: #blurb4
+
 type: two-images
 left: userGoals.png
 right: personas.png
@@ -21,4 +24,13 @@ type: centered-text
 content: #blurb3
 
 type: image-full
-image: before-after.png
+image: screen3-out.png
+
+type: image-full
+image: screen2-out.png
+
+type: image-full
+image: screen3-in.png
+
+type: image-full
+image: screen2-in.png

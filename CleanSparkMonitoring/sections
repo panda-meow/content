@@ -11,9 +11,12 @@ overview: #overview
 type: centered-text
 content: #blurb3
 
-type: two-images
-left: overview-v1.png
-right: overview-v2.png
+type: image-full
+image: overview-v1-v2.png
+
+#type: two-images
+#left: overview-v1.png
+#right: overview-v2.png
 
 type: centered-quote
 content: Let’s back up a minute.
@@ -21,12 +24,16 @@ content: Let’s back up a minute.
 type: centered-text
 content: #blurb5
 
-type: three-images
-left: portfolio1.png
+type: image-full
+content: #blurb3
+image: portfolio.png
+
+#type: three-images
+#left: portfolio1.png
 #leftCaption: Initial building overview
-center: portfolio2.png
+#center: portfolio2.png
 #centerCaption: Iteration v1 building overview
-right: portfolio3.png
+#right: portfolio3.png
 #rightCaption: Iteration v2 building overview
 
 type: centered-text
@@ -39,7 +46,7 @@ image: nested-portfolio.png
 type: image-text-right
 header: thingy header test
 content: #blurb7
-image: overview-v2.png
+image: overview-v3.png
 
 type: centered-text
 content: #blurb8
@@ -47,3 +54,10 @@ content: #blurb8
 type: image-full
 content: #blurb3
 image: drilldown-all.png
+
+type: image-full
+image: controls.png
+
+type: two-images
+left: consumer-screen-lg.png
+right: consumer-screen-sm.png
