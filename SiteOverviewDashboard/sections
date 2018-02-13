@@ -7,11 +7,11 @@ type: centered-text
 content: #blurb4
 
 type: image-full
-image: userGoals.png
+image: userGoals.jpg
 header: User Types & Context
 
 type: image-full
-image: personas.png
+image: personas.jpg
 header: Personas
 
 type: centered-text
@@ -20,13 +20,8 @@ content: #blurb5
 type: image-full
 image: widgets-all.png
 
-type: centered-quote
-content: Say something intelligent!
-
-type: centered-text
-content: #blurb3
-
 type: image-full
+header: Deliverables
 image: screen3-out.png
 
 type: image-full
