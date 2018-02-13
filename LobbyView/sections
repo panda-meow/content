@@ -1,18 +1,21 @@
 type: notes
 content: #blurb
 overview: #overview
-image: main.png
+image: main.jpg
 
 type: two-images
-left: 0-original.png
-right: 1a-redesign.png
+left: 0-original.jpg
+captionLT: original
+right: 1a-redesign.jpg
+captionRT: redesign
 
-type: image-full
+type: image-text
+header: Streamline the process
+content: #blurb3
 image: 1b-requestForm.png
+overview: #overview
 
 
-type: two-images
-left: 1a-redesign.png
-right: 1b-requestForm.png
 type: image-full
+header: Deliverables
 image: 2-all-xs.jpg
