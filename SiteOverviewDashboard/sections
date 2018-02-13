@@ -6,13 +6,16 @@ image: main.png
 type: centered-text
 content: #blurb4
 
-type: two-images
-left: userGoals.png
-right: personas.png
+type: image-full
+image: userGoals.png
+header: User Types & Context
 
 type: image-full
-image: siteTypes.png
-overview: #overview
+image: personas.png
+header: Personas
+
+type: centered-text
+content: #blurb5
 
 type: image-full
 image: widgets-all.png

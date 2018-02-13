@@ -14,14 +14,22 @@ content: #blurb3
 
 type: two-images
 left: sketch1.png
+captionLT: test top left
 right: sketch2.png
+captionRT: test top right
+leftB: sketch1.png
+captionLB: test bottom left
+rightB: sketch2.png
+captionRB: test bottom right
 
 type: image-text
+header: test header
 content: #blurb2
 image: 3dModel.png
 overview: #overview
 
 type: image-text-right
+header: test image right header
 content: #blurb2
 image: sites-detail.png
 overview: #overview

@@ -23,6 +23,7 @@ type: image-full
 image: iterosPostersAll6.png
 
 type: image-text
+header: Screen in action
 content: #blurb6
 image: screen-all.gif
 overview: #overview
