@@ -8,15 +8,16 @@ content: #blurb2
 image: beginning.png
 overview: #overview
 
-type: centered-text
+type: image-text-right
+#header: thingy header test
 content: #blurb3
+image: controls.jpg
+
+type: centered-text
+content: #blurb3.1
 
 type: image-full
 image: overview-v1-v2.png
-
-#type: two-images
-#left: overview-v1.png
-#right: overview-v2.png
 
 type: centered-quote
 content: Let’s back up a minute.
@@ -54,9 +55,6 @@ content: #blurb8
 type: image-full
 content: #blurb3
 image: drilldown-all.png
-
-type: image-full
-image: controls.png
 
 type: two-images
 left: consumer-screen-lg.png
