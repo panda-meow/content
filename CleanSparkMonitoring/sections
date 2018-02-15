@@ -8,16 +8,27 @@ content: #blurb2
 image: beginning.png
 overview: #overview
 
-type: image-text-right
+#type: image-text-right
 #header: thingy header test
-content: #blurb3
-image: controls.jpg
+#content: #blurb3
+#image: controls.jpg
 
 type: centered-text
 content: #blurb3.1
 
 type: image-full
 image: overview-v1-v2.png
+
+
+type: centered-text
+content: #blurb3
+
+type: image-fifty
+image: consumerUI-lg.jpg
+
+type: image-text
+content: #blurb9
+image: circleNav.gif
 
 type: centered-quote
 content: Let’s back up a minute.
@@ -56,6 +67,6 @@ type: image-full
 content: #blurb3
 image: drilldown-all.png
 
-type: two-images
-left: consumer-screen-lg.png
-right: consumer-screen-sm.png
+#type: two-images
+#left: consumer-screen-lg.png
+#right: consumer-screen-sm.png
