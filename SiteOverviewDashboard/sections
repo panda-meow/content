@@ -33,3 +33,18 @@ image: screen3-in.png
 
 type: image-full
 image: screen2-in.png
+
+type: centered-quote
+content: Energy management systems are built with many features and capabilities, but one of the most crucial is monitoring the health of a facility.
+
+type: centered-text
+content: #blurb6
+
+type: image-full
+image: wireframes.png
+
+type: image-full
+image: implementation2.png
+
+
+
