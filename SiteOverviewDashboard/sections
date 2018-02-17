@@ -18,7 +18,8 @@ type: centered-text
 content: #blurb5
 
 type: image-full
-image: widgets-all.png
+image: widgets-new.jpg
+header: Widgets
 
 type: image-full
 header: Deliverables
