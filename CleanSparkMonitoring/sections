@@ -52,7 +52,7 @@ type: centered-text
 content: #blurb6
 
 type: image-full
-content: #blurb3
+#content: #blurb3
 image: nested-portfolio.png
 
 type: image-text-right
@@ -64,7 +64,7 @@ type: centered-text
 content: #blurb8
 
 type: image-full
-content: #blurb3
+#content: #blurb3
 image: drilldown-all.png
 
 #type: two-images

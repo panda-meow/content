@@ -1,1 +1,9 @@
-~An administrator sets up his facilities management system. What does this process look like? What minimum information is required in order to start using the software?
+### Overview
+<p>An administrator sets up his facilities management system. What does this process look like? What minimum information is required in order to start using the software? Assume the administrator needs to register devices that will collect sensor data in the system. If this is a chain, the equipment will be similar at each site. Once the main properties are configured, it seems redundant to re-configure the basics at each site.</p>
+<br>
+<br>
+
+### The Challenge
+<p>Create a flow that allows an administrator to set up required properties, and allows him or her to determine what fields are configurable. The result should be an equipment definition that a site manager can use to expedite installation without sacrificing flexibility.</p>
+<br>
+<br>

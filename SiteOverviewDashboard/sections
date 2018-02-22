@@ -7,12 +7,19 @@ type: centered-text
 content: #blurb4
 
 type: image-full
+header: First Iteration
+content: #blurb1
+image: before.jpg
+
+type: image-full
 image: userGoals.jpg
 header: User Types & Context
+content: #blurb2
 
 type: image-full
 image: personas.jpg
 header: Personas
+content: #blurb3
 
 type: centered-text
 content: #blurb5
@@ -35,15 +42,17 @@ type: image-full
 image: screen2-in.png
 
 type: centered-quote
-content: Energy management systems are built with many features and capabilities, but one of the most crucial is monitoring the health of a facility.
+content: Energy management systems are built with many features and capabilities. One of the most crucial is monitoring the health of a facility.
 
 type: centered-text
 content: #blurb6
 
 type: image-full
+content: #blurb7
 image: wireframes.png
 
 type: image-full
+content: #blurb8
 image: implementation2.png
 
 
