@@ -37,16 +37,13 @@ type: centered-text
 content: #blurb7
 
 type: image-fifty
-image: main.jpg
+image: iPad-new.jpg
 
 type: centered-text
 content: #blurb8
 
 type: image-fifty
 image: 5-android-long.png
-
-type: centered-text
-content: move this to main image, combine ipad/nexus7 and android phones. add gif of interaction
 
 type: image-full
 image: 6-android-screens.png

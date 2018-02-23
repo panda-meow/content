@@ -37,7 +37,6 @@ type: centered-text
 content: #blurb5
 
 type: image-full
-content: #blurb3
 image: portfolio.png
 
 #type: three-images
@@ -56,7 +55,6 @@ type: image-full
 image: nested-portfolio.png
 
 type: image-text-right
-header: thingy header test
 content: #blurb7
 image: overview-v3.png
 
