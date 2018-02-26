@@ -1,6 +1,1 @@
 Bigger clients became interested in our platform, and there was a need for a type of display that would give an overview of multiple sites within a single screen. This gave rise to the "portfolio view". Below are three different portfolio views featuring all sites within a single portfolio. The dots on the map are proportional to the size of the power load of each site. The energy sources are shown as multiple bar chart, each bar stacked with the assets that makeup the mix of power consumed or generated. A donut chart shows the mix of power for the portfolio as a whole. The idea was to have something specific to the regional bounds of the portfolio while maintaining a consistent design.
-
-**use emphasis instead of quotes**
-*emphasis*
-__emphasis__
-_emphasis_

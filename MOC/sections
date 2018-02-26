@@ -24,21 +24,31 @@ content: #blurb2
 image: 3dModel.png
 overview: #overview
 
-type: image-text-right
-header: test image right header
-content: #blurb4
-image: sites-detail.png
-overview: #overview
-
 type: centered-text
-content: #blurb3
+content: #blurb5
+
+#type: image-text-right
+#header: test image right header
+#content: #blurb4
+#image: sites-detail.png
+#overview: #overview
 
 type: two-images
 left: fractalGrid1.jpg
-captionLT: Room diagram v1
+captionLT: FractalGrid: one site, multiple facilities
 right: fractalGrid2.jpg
-captionRT: Room diagram v2
+captionRT: FractalGrid: multiple sites
+
+type: centered-text
+content: #blurb8
 
 type: image-full
 image: nodeView.png
+
+type: centered-text
+content: #blurb6
+
+type: image-full
+image: CampPendleton-FractalGrid.mp4
+content: #blurb7
 

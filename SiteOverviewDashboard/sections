@@ -53,9 +53,11 @@ image: wireframes.png
 
 type: image-full
 content: #blurb8
-image: implementation2.png
+image: screen2-portfolio-out.png
 
 type: image-full
+header: Interface in action
+content: #blurb9
 image: site-portfolio.mp4
 
 

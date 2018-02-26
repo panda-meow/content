@@ -1,0 +1,1 @@
+<p>Changes in budget forced the company to hold off on implementing this hi-tech version of the MOC. We ended up implementing what is shown in the first image: one wall of desktop monitors and wall-mounted displays. The interfaces were featured on these screens.</p>

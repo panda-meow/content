@@ -24,9 +24,17 @@ content: #blurb3
 
 type: image-full
 header: header test
+image: eqDef-add.jpg
+content: #blurb2
+
+type: image-full
+header: header test
 image: eqDef-details.jpg
 
 type: image-full
-image: eq-add.jpg
+image: addEquip.mp4
+content: #blurb2
 
+type: image-full
+image: equipDetails.mp4
 

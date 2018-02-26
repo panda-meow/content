@@ -1,5 +1,5 @@
 Title
-Monitoring Platform
+Energy Monitoring Interface
 
 Company
 CleanSpark
@@ -8,7 +8,7 @@ Technology
 SCALA, Play Framework, AngularJS, HTML, SCSS, Gulp.js, Sketch, Axure
 
 Roles
-Front-End Development, Data Visualization, Lo and Hi Fidelity Wireframes, Contextual Interviews, A/B Testing,
+Front-End Development, Data Visualization, Wireframes, User Research,
 
 Team Collaborators
 Two backend Java developers: created system architecture, developed system intelligence, managed databases, wrote service calls; Software Intern: helped with JavaScript functions and later data charts
