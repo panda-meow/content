@@ -1,6 +1,8 @@
 
 ### Overview
 <p><span class="drop-cap">T</span>he current tools used for energy management often consist of proprietary software that the equipment manufacturers require with their devices. When a device needs to be configured at the facility, the equipment manufacterer usually charges by the sensor point. Most devices have numerous sensor points, and this can get expensive.</p>
+<br>
+<br>
 <p> At Iteros, we developed a system that is equipment agnostic, and allows for the creation of equipment definitions from which new equipment inherits properties. This enables consistent configuration in a fraction of the time.</p>
 
 <br>
