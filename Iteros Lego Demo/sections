@@ -28,6 +28,10 @@ content: #blurb6
 image: screen-all.gif
 overview: #overview
 
+type: image-full
+header: Demo in action
+image: legoDemo.mp4
+
 type: image-text-right
 content: #blurb7
 header: Microgrid Lab

@@ -32,11 +32,11 @@ type: image-full
 header: Deliverables
 image: screen3-out.png
 
-type: image-full
-image: screen2-out.png
+#type: image-full
+#image: screen2-out.png
 
-type: image-full
-image: screen3-in.png
+#type: image-full
+#image: screen3-in.png
 
 type: image-full
 image: screen2-in.png
@@ -55,5 +55,7 @@ type: image-full
 content: #blurb8
 image: implementation2.png
 
+type: image-full
+image: site-portfolio.mp4
 
 
